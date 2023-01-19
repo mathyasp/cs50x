@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It is slowest in all options except when it's sorted because it is able to skip each pair.
+
+sort2 uses: Merge Sort
+
+How do you know?: It is consistent in its speeds and is consistently faster than the others.
+
+sort3 uses: Selection Sort
+
+How do you know?: Though not the fastest, it's faster than sort1 and its speeds are fairly consistent.
